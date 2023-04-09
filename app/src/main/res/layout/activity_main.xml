@@ -62,7 +62,7 @@
             android:orientation="vertical"
             android:layout_gravity="center"
             android:gravity="center"
-            android:background="@drawable/radius"
+            android:background="@drawable/radius2"
             android:layout_margin="5dp"
 
             >
@@ -135,7 +135,7 @@
             android:orientation="vertical"
             android:layout_gravity="center"
             android:gravity="center"
-            android:background="@drawable/radius"
+            android:background="@drawable/radius2"
             android:layout_margin="5dp"
 
             >
